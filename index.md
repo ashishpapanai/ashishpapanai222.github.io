@@ -10,7 +10,7 @@ Coded 16+ statistical algorithms and their implementations mentioned in the book
 
 **Formulae/Algorithms Implemented:** Naive Bayes classifier applied to text data (bag of words), Credible Intervals, Conditional densities (to compare Generative and Discriminatory model), EM Algorithm (Visualise the lower bounds), Second order approximation of a function (Newton’s Method), Newton’s method for Non-Convex functions, Data interpolation using joint. 
 
-#### [CAMP K12](https://github.com/ashishpapanai)
+#### [CAMP K12](https://campk12.com/)
 
 Artificial Intelligence Instructor **Jul. 2020 – Nov. 2020**
 
