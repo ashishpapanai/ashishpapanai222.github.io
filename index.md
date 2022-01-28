@@ -37,13 +37,15 @@ rating of 2300+ ELO.
 - The engine uses a min-max search algorithm used for turn-based games. The player with white pieces tries to maximize the score, whereas the player with black pieces minimizes the score.
 - The computation speed is reduced by Alpha-Beta pruning, a mathematical approach to discard the branches that will not be visited while traversing the tree during the min-max tree traversal.
 - The engine is rewarded with a score based on a points table created considering the basic principles of chess. White side tried to maximise the score and black tries to minimise it.
-![Screenshot (68)](https://user-images.githubusercontent.com/52123364/151507292-21f3bace-27a8-440a-9d9e-cd0f1ffbc1da.png)
+
+![_Yellow and Black Code Geek Computer Logo](https://user-images.githubusercontent.com/52123364/151521738-8800584b-3072-4619-bbd7-5f60e144c43a.png)
 
 
 ---
 #### [IMGprove](https://github.com/ashishpapanai/IMGprove)
 Developed deep-learning solution to improve the quality of low-resolution images. This API improves the resolution of a 100x100 image to 400x400. Also helpful in optimizing data storage in cloud based servers without compromising much with the quality of the image.
 • Currently working on an improved and novel solution/implementation of SRGAN is being worked on for videos, which will be used as an add-on with YouTube API. This add-on will help the users with limited internet bandwidth watch the videos at a much higher resolution by up-scaling the video frames locally instead of streaming the video at a higher resolution.
+
 ![IMGprove Logo](https://user-images.githubusercontent.com/52123364/151513234-ff66cab0-c0ba-44f0-9139-278d16be96bb.png)
 
 
