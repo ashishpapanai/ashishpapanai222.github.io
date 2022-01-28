@@ -66,6 +66,8 @@ Proposed features of Stalemate:
 - It will receive the board position as FEN and will spend at max 2000ms to search for the best move.
 - The best move might change with time and as the depth of the search tree increases. The engine will also generate a list of moves for both sides. This list is called principal variation.
 
+![stalemate_lowres](https://user-images.githubusercontent.com/52123364/151520982-078e04fd-f08f-4ee4-ac80-efba5c515b33.png)
+
 ---
 ### Research Publications: 
 1. **Efficient Prediction of Annual Yield from Stocks Using Hybrid Deep Learning** (Under Review) <br>
