@@ -3,8 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computer Science and Engineering Undergraduate at Maharaja Agrasen Institute of Technology, Delhi. 
   <br>
-  Research Interests: Reinforcement Learning, Deep Learning (Computer Vision, Natural Language Processing, Time-Series Analysis), Digital Image Processing, Quantitative Finance, Algorithmic trading. 
-  <br>
   <a href="https://www.linkedin.com/in/ashishpapanai/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
