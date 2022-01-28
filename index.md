@@ -54,6 +54,9 @@ Developed AIde - (An audio guide for visually impaired persons navigation and as
 project is an improved implementation of YOLO v3 Algorithm for object detection and classification
 and Canny’s Edge detection algorithm for lane detection and navigation.
 
+![Blue Waves Water Sports Logo](https://user-images.githubusercontent.com/52123364/151519920-a62c45fe-ab97-4603-9322-d789641c1414.png)
+
+
 ---
 
 #### [Stalemate](https://github.com/ashishpapanai/stalemate/)
