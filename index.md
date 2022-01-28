@@ -88,5 +88,3 @@ Proposed features of Stalemate:
 - **Web Technologies:** JavaScript, HTML/CSS, Flask
 - **Technology:** SQL, Seaborn, Scikit Learn, OpenCV, Git, AWS, GCP, Azure, LATEX
 
-
----
