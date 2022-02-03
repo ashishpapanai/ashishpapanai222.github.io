@@ -72,7 +72,7 @@ Proposed features of Stalemate:
 
 ---
 ### Research Publications: 
-1. **Efficient Prediction of Annual Yield from Stocks Using Hybrid Deep Learning** (Under Review) <br>
+1. **Efficient Prediction of Annual Yield from Stocks Using Hybrid Deep Learning** <br>
     Authors: Ashish Papanai<br>
     Conference: [MISP'22](https://misp2022.nitrr.ac.in/)
     
