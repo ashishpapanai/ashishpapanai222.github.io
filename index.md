@@ -73,12 +73,12 @@ Proposed features of Stalemate:
 ---
 ### Research Publications: 
 1. **Efficient Prediction of Annual Yield from Stocks Using Hybrid Deep Learning** <br>
-    Authors: Ashish Papanai
-    Conference: [MISP'22](https://misp2022.nitrr.ac.in/)
+    **Authors:** Ashish Papanai <br>
+    **Conference:**  4th International Conference on Machine Intelligence and Signal Processing [MISP'22](https://misp2022.nitrr.ac.in/)
     
-2. **Image Processing as a Visual Aid for the Visually Impaired** (Under Review)<br>
-    Authors: Ashish Papanai, Harsh Kaushik<br>
-    Conference : [INDISCON'22](https://www.indiscon2022.org)
+2. **Image Processing as a Visual Aid for the Visually Impaired** <br>
+    **Authors:** Ashish Papanai, Harsh Kaushik<br>
+    **Conference:** 8th International Conference on Advanced Computing and Communication Systems [ICAACS'22](https://icaccs.sece.ac.in/)
     
 ---
 ### Skills:
