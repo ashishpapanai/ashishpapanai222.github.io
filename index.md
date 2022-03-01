@@ -1,6 +1,6 @@
 **NOTE:** _I am actively looking for Summer Research Internships for 2022 (PAN India, or Remote), and Long-Term Research Assistant positions in Delhi, or Remote. <br>_
-**Link to CV:** https://bit.ly/AshishPapanaiCV <br>
-**Link to Research Statement:** https://bit.ly/Ashish_Papanai_Research
+**Link to CV:** [Extended CV](https://bit.ly/AshishPapanaiCV)<br>
+**Link to Research Statement:** [Research Statement](https://bit.ly/Ashish_Papanai_Research)
 
 
 ### Work Experience: 
